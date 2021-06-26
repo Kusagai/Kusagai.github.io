@@ -1,20 +1,20 @@
 [General]
 Name=The Help
 Args=-p 30 -a cluck.png
-Source=http://Kusagai.github.io/vchat/worlds/help/world.adf
+Source=http://kusagai.github.io/vchat/worlds/help/world.adf
 
 [Data]
-world.wdb=http://Kusagai.github.io/vchat/worlds/help/Data/world.wdb
-about.txt=http://Kusagai.github.io/vchat/worlds/help/Data/about.txt
+world.wdb=http://kusagai.github.io/vchat/worlds/help/Data/world.wdb
+about.txt=http://kusagai.github.io/vchat/worlds/help/Data/about.txt
 
 [Images]
-Glow.GIF=http://Kusagai.github.io/vchat/worlds/help/Images/glow.gif, 256,256, 0, 47, 89, 151, 148, 160, 188
-Groundb.gif=http://Kusagai.github.io/vchat/worlds/help/Images/groundb.gif, 512, 512, 0, 200,225, 197, 39,40, 95
-Horizona.gif=http://Kusagai.github.io/vchat/worlds/help/Images/horizona.gif, 128,128, 0, 67, 96, 142, 0,0,0
-Sphere.gif=http://Kusagai.github.io/vchat/worlds/help/Images/sphere.gif, 256,256, 0, 153, 74, 16, 46, 23, 31
+Glow.GIF=http://kusagai.github.io/vchat/worlds/help/Images/glow.gif, 256,256, 0, 47, 89, 151, 148, 160, 188
+Groundb.gif=http://kusagai.github.io/vchat/worlds/help/Images/groundb.gif, 512, 512, 0, 200,225, 197, 39,40, 95
+Horizona.gif=http://kusagai.github.io/vchat/worlds/help/Images/horizona.gif, 128,128, 0, 67, 96, 142, 0,0,0
+Sphere.gif=http://kusagai.github.io/vchat/worlds/help/Images/sphere.gif, 256,256, 0, 153, 74, 16, 46, 23, 31
 
 [Sounds]
-song.wav=http://Kusagai.github.io/vchat/worlds/help/Sounds/song.wav
-collide.wav=http://Kusagai.github.io/vchat/worlds/help/Sounds/collide.wav
-Sound.htm=http://Kusagai.github.io/vchat/worlds/help/Sounds/sound.htm
+song.wav=http://kusagai.github.io/vchat/worlds/help/Sounds/song.wav
+collide.wav=http://kusagai.github.io/vchat/worlds/help/Sounds/collide.wav
+Sound.htm=http://kusagai.github.io/vchat/worlds/help/Sounds/sound.htm
 
