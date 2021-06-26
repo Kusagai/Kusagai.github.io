@@ -28,7 +28,7 @@ ground.gif=http://kusagai.github.io/vchat/worlds/gallery/Images/ground.gif,256,2
 
 [Sounds]
 collide.wav=http://kusagai.github.io/vchat/worlds/gallery/Sounds/collide.wav
-enter.wav=http://kusagai.github.io/vchat/worlds/gallery/Sounds/entry.wav
+enter.wav=http://kusagai.github.io/vchat/worlds/gallery/Sounds/enter.wav
 exit.wav=http://kusagai.github.io/vchat/worlds/gallery/Sounds/exit.wav
 song.mid=http://kusagai.github.io/vchat/worlds/gallery/Sounds/song.mid
 sound.htm=http://kusagai.github.io/vchat/worlds/gallery/Sounds/sound.htm
